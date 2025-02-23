@@ -1,0 +1,24 @@
+//#include <stdio.h>
+//
+//void sayhello();
+//void sayhello2(char name[]);
+//int main()
+//{
+//	sayhello();
+//
+//
+//	sayhello2("¿Ãº¯Ω≈");
+//
+//
+//	return 0;
+//}
+//
+//void sayhello()
+//{
+//	printf("æ»≥Á«œººø‰\n");
+//}
+//
+//void sayhello2(char name[])
+//{
+//	printf("%s¥‘ æ»≥Á«œººø‰\n", name);
+//}
