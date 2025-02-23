@@ -139,7 +139,9 @@
     <ClCompile Include="Sayhello.c" />
     <ClCompile Include="Squara.c" />
     <ClCompile Include="Static.c" />
+    <ClCompile Include="StringFunction.c" />
     <ClCompile Include="Time.c" />
+    <ClCompile Include="Uppercase.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Carcurater.h" />

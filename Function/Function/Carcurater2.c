@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "Carcurater.h";
 
-int  main()
+int  main_Carcurater()
 {
 	int x = 3, y = 4, result;
 	count++;
