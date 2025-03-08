@@ -27,5 +27,11 @@
     <ClCompile Include="Arrays2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Arrayaddremove.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayAddRemove2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

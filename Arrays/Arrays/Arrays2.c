@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() 
+int main_Arrays2() 
 {
 	int score[] = { 85, 70, 90, 70, 85 };
 	int n; //반복 변수
