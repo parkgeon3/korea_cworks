@@ -132,6 +132,7 @@
     <ClCompile Include="Function2.c" />
     <ClCompile Include="Function3.c" />
     <ClCompile Include="GloveVar.c" />
+    <ClCompile Include="Land.c" />
     <ClCompile Include="Localtime.c" />
     <ClCompile Include="Function1.c" />
     <ClCompile Include="LocalVar.c" />
@@ -140,7 +141,9 @@
     <ClCompile Include="Squara.c" />
     <ClCompile Include="Static.c" />
     <ClCompile Include="StringFunction.c" />
+    <ClCompile Include="StringGetchar.c" />
     <ClCompile Include="Time.c" />
+    <ClCompile Include="TypingGame.c" />
     <ClCompile Include="Uppercase.c" />
   </ItemGroup>
   <ItemGroup>

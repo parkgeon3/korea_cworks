@@ -1,2 +1,4 @@
-﻿  ArrayAddRemove2.c
+﻿  Array2D.c
+C:\cworks\Arrays\Arrays\Array2D.c(7,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\cworks\Arrays\Arrays\Array2D.c(7,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
   Arrays.vcxproj -> C:\cworks\Arrays\x64\Debug\Arrays.exe

@@ -2,7 +2,7 @@
 #define MAX_LEN 4 //»ó¼ö
 
 
-int main()
+int main_ArrayAddRemove2()
 {
 
 

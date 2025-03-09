@@ -3,6 +3,7 @@ C:\cworks\Function\Function\Carcurater2.c;C:\cworks\Function\Function\x64\Debug\
 C:\cworks\Function\Function\Function2.c;C:\cworks\Function\Function\x64\Debug\Function2.obj
 C:\cworks\Function\Function\Function3.c;C:\cworks\Function\Function\x64\Debug\Function3.obj
 C:\cworks\Function\Function\GloveVar.c;C:\cworks\Function\Function\x64\Debug\GloveVar.obj
+C:\cworks\Function\Function\Land.c;C:\cworks\Function\Function\x64\Debug\Land.obj
 C:\cworks\Function\Function\Localtime.c;C:\cworks\Function\Function\x64\Debug\Localtime.obj
 C:\cworks\Function\Function\Function1.c;C:\cworks\Function\Function\x64\Debug\Function1.obj
 C:\cworks\Function\Function\LocalVar.c;C:\cworks\Function\Function\x64\Debug\LocalVar.obj
@@ -11,5 +12,7 @@ C:\cworks\Function\Function\Sayhello.c;C:\cworks\Function\Function\x64\Debug\Say
 C:\cworks\Function\Function\Squara.c;C:\cworks\Function\Function\x64\Debug\Squara.obj
 C:\cworks\Function\Function\Static.c;C:\cworks\Function\Function\x64\Debug\Static.obj
 C:\cworks\Function\Function\StringFunction.c;C:\cworks\Function\Function\x64\Debug\StringFunction.obj
+C:\cworks\Function\Function\StringGetchar.c;C:\cworks\Function\Function\x64\Debug\StringGetchar.obj
 C:\cworks\Function\Function\Time.c;C:\cworks\Function\Function\x64\Debug\Time.obj
+C:\cworks\Function\Function\TypingGame.c;C:\cworks\Function\Function\x64\Debug\TypingGame.obj
 C:\cworks\Function\Function\Uppercase.c;C:\cworks\Function\Function\x64\Debug\Uppercase.obj
