@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="CallByRef.c" />
     <ClCompile Include="ChangeArray.c" />
+    <ClCompile Include="Mallocchar.c" />
+    <ClCompile Include="Mallocint.c" />
+    <ClCompile Include="Mallocint2.c" />
     <ClCompile Include="Pointer1.c" />
     <ClCompile Include="PointerArray.c" />
     <ClCompile Include="PointerString.c" />
